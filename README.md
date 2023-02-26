@@ -3,8 +3,8 @@ Also, I'm studying Science of Computing at NCI. 🤓🖥️ <h3>
   
   <div>
   <a href="https://github.com/wenceslaupedro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wenceslaupedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenceslaupedro&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wenceslaupedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenceslaupedro&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
