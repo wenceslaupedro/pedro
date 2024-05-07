@@ -1,5 +1,5 @@
 <h3> Hi there! My name is Pedro, I'm from Brazil and currently living in Dublin-Ireland.😁 <br><br>
-Also, I'm studying Science of Computing at NCI. 🤓🖥️ <h3>
+Also, I'm studying Computer Science at TU. 🤓🖥️ <h3>
   
   <div>
   <a href="https://github.com/wenceslaupedro">
