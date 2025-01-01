@@ -1,5 +1,5 @@
-<h3> Hi there! My name is Pedro, I'm from Brazil and currently living in Dublin-Ireland.😁 <br><br>
-Also, I'm studying Computer Science at TU. 🤓🖥️ <h3>
+<h3> Hi there! My name is Pedro, I'm studying Computer Science at TU. 🤓🖥️ <h3><br><br>
+Graduate IT Engineer | Data Analysis | Data Management | Excel, Python, MySQL, PowerBI
   
   <div>
   <a href="https://github.com/wenceslaupedro">
