@@ -1,4 +1,4 @@
-<h3> Hi there! My name is Pedro, I'm studying Computer Science at TU. 🤓🖥️ <h3><br><br>
+<h3> Hi there! My name is Pedro, I'm studying Computer Science at TU. 🤓🖥️ <h3><br>
 Graduate IT Engineer | Data Analysis | Data Management | Excel, Python, MySQL, PowerBI
   
   <div>
