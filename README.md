@@ -14,6 +14,7 @@ Data Analysis | Data Management | Excel, Python, MySQL, PowerBI <br>
   <img align="center" alt="Excel" height="30" width="40" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg">
   <img align="center" alt="PwerBI" height="30" width="40" src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">                 <br><br>
  
 </div>
